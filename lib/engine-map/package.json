@@ -1,0 +1,15 @@
+{
+  "name": "engine-map",
+  "keywords": [
+    "ember-addon",
+    "ember-engine"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "*",
+    "ember-cli-babel": "*",
+    "ember-google-maps": "*"
+  },
+  "devDependencies": {
+    "broccoli-debug": "*"
+  }
+}
