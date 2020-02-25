@@ -17,6 +17,7 @@ You will need the following things properly installed on your computer.
 * `git clone https://github.com/sandydoo/ember-google-maps-engine-test` this repository
 * `cd ember-google-maps-engine-test`
 * `yarn install`
+* `touch .env; echo 'GOOGLE_MAPS_API_KEY=<INSERT_YOUR_KEY_HERE>' > .env`
 
 ## Running / Development
 
